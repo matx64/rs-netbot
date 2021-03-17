@@ -3,7 +3,7 @@ Old School Runescape (MMORPG) Bot created using a Convolutional Neural Network f
 
 ![](https://matheustalves.github.io/img/bot.gif)
 
-### Dependencies (Python 3.8+)
+### Dependencies (Python 3.8)
 
  - Pytorch 1.8+
  - OpenCV
