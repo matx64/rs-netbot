@@ -13,3 +13,5 @@ Old School Runescape (MMORPG) Bot created using a Convolutional Neural Network f
  - tqdm (optional, for terminal loading bars)
  
  If you have CUDA support, download the CUDA Toolkit from Nvidia and ``` device = torch.device("cuda:0") ``` will use it as primary processing device.
+
+Disclaimer: This bot was created for educational propurses and was never used to get in game advantage.
