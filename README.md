@@ -8,8 +8,6 @@ Old School Runescape (MMORPG) Bot created using a Convolutional Neural Network f
  - Pytorch 1.8+
  - OpenCV
  - Numpy
- - Pillow
- - matplotlib
  - mss
  - pynput
  - tqdm (optional, for terminal loading bars)
