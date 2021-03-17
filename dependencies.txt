@@ -1,0 +1,10 @@
+pip install
+
+REQUIRED:
+    opencv-python
+    numpy
+    pytorch
+    mss
+    pynput
+OPTIONAL:
+    tqdm #adds progress bar to training.
